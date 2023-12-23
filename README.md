@@ -25,8 +25,8 @@ The analysis provided valuable insights into:
 - Patient and hospital districts.
 
 ## Project Files
-- [Dataset Excel Sheet]([link-to-excel-sheet](https://docs.google.com/spreadsheets/d/1k4bf6XQesnbsiilL8zsPjRw-ET8_2bCp/edit?usp=drive_link&ouid=101082540720314963908&rtpof=true&sd=true))
-- [Power BI Dashboard]([link-to-power-bi-dashboard](https://drive.google.com/file/d/1ATRFTJeToXKeR2CNHX2xwxgJ-VGXsZHE/view?usp=drive_link))
+- [Dataset Excel Sheet](link-to-excel-sheet](https://docs.google.com/spreadsheets/d/1k4bf6XQesnbsiilL8zsPjRw-ET8_2bCp/edit?usp=drive_link&ouid=101082540720314963908&rtpof=true&sd=true)
+- [Power BI Dashboard](link-to-power-bi-dashboard](https://drive.google.com/file/d/1ATRFTJeToXKeR2CNHX2xwxgJ-VGXsZHE/view?usp=drive_link)
 
 ## How to Use
 To reproduce or explore the analysis:
