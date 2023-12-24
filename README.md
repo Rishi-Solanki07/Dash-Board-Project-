@@ -48,7 +48,7 @@ List any dependencies or software requirements needed to replicate the analysis.
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - Email: solankirishi004@gmail.com
-- LinkedIn:([link-to-linkedin](https://www.linkedin.com/in/solanki-rishi-3000331b7)https://www.linkedin.com/in/solanki-rishi-3000331b7)
+- [LinkedIn](https://www.linkedin.com/in/solanki-rishi-3000331b7)
 
 Happy Analyzing!
 
